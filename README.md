@@ -23,8 +23,9 @@ O sistema simula operações bancárias utilizando conceitos de Programação Or
 - Validação de saldo para saque
 - Histórico com data e hora das operações
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
+```text
 src/
 └── br/com/fiapbank/
     ├── application/
@@ -50,6 +51,7 @@ src/
     │
     └── presentation/
         └── Menu
+```
 
 # 👨‍💻 Autor
 
